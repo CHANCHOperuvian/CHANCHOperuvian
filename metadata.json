@@ -1,0 +1,6 @@
+{
+  "name": "Validador de Cobertura Chile",
+  "description": "Sistema de validación y consulta de cobertura de telecomunicaciones para Chile con soporte para 50.000+ registros, generador Google Apps Script y suite operativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
